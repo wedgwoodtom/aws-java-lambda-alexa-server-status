@@ -1,0 +1,15 @@
+# TODO: Update
+
+
+# Alexa, open Canary
+# Alexa, ask Canary to report status
+# Alexa, ask Canary to simulate a failure
+# Alexa, ask Canary to list failures
+# Alexa, ask Canary to clear failures
+# Alexa, ask Canary to list servers
+
+
+WhatIsServiceStatus
+SimulateNodeFailure
+ClearErrors
+ListServers
